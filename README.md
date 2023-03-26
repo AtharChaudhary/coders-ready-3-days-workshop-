@@ -1,1 +1,1 @@
-# coders-ready-3-days-workshop-
+# 3 Days Data Science and App Development Workshop by Coders Ready
